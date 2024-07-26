@@ -1,4 +1,4 @@
-# Software Developer Portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/gitsdeepak/-portfolio?color=blue)](https://github.com/gitsdeepak/portfolio/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/gitsdeepak/portfolio)](https://github.com/gitsdeepak/portfolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+# Software Developer Portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/gitsdeepak/portfolio?color=blue)](https://github.com/gitsdeepak/portfolio/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/gitsdeepak/portfolio)](https://github.com/gitsdeepak/portfolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
 ## A clean, beautiful and responsive portfolio template for Developers!
 
