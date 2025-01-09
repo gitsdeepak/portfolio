@@ -149,7 +149,7 @@ Set `displayMediumBlogs` to true or false in portofolio.js to display fetched Me
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all I'm Saad",
+  title: "Hi all I'm Deepak",
   subTitle: emoji("A passionate Full Stack Software Developer 🚀"),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
@@ -158,7 +158,7 @@ const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/gitsdeepak",
   linkedin: "https://www.linkedin.com/in/deepak-ds/",
-  gmail: "sainideepak122000@gmail.com",
+  gmail: "your-mail@mail.com",
   gitlab: "https://gitlab.com/gitsdeepak",
   facebook: "https://www.facebook.com/",
   behance: "https://www.behance.net/dd28"
